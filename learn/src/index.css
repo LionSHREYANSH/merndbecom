@@ -1,0 +1,107 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; */
+/* } */
+
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+body{
+    background: linear-gradient(to right , #5b6772 , #414a52);
+   
+}
+
+#navbar{ 
+  background: linear-gradient(to right ,grey , white);
+  box-shadow: 3px 4px 5px rgb(120, 117, 117);
+}
+
+#navbar ul li a{
+  color: green;
+}
+
+#navbar .bi-amazon{
+    color:  orange;
+    font-size: larger;
+    font-weight: bolder;
+
+}
+
+#Reg{
+ margin-top: 170px;
+}
+
+.reglabel{
+  color: white;
+}
+
+
+#Login{
+  margin-top: 170px;
+ }
+ 
+ .reglabel{
+   color: white;
+ }
+
+ #regmessage{
+  text-align: center;
+  color: goldenrod;
+  font-weight: bolder;
+  font-size: larger;
+  font-family: cursive;
+
+ }
+
+ #loginmessage{
+  text-align: center;
+  color: goldenrod;
+  font-weight: bolder;
+  font-size: larger;
+  font-family: cursive;
+ }
+ 
+
+ #Adminaddproductform{
+  color: white;
+  margin-top: 20px;
+ }
+
+
+ #myimg{
+  width: 80px;
+ 
+ }
+
+ #table{
+  box-shadow: 6px 6px 6px rgb(57, 56, 56);
+ }
+.bi-trash3-fill{
+ 
+  font-weight: bolder;
+  font-size: larger;
+}
+
+#usercard{
+ width: 200px;
+}
+
+#editImage {
+  width: 100px;
+}
+
+.bi-cart-dash-fill{
+ font-size: 17px;
+ font-weight: bolder;
+ color: orange;
+}
+
+#cartcount{
+  font-size: larger;
+}
+
